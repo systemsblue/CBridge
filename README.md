@@ -3,7 +3,8 @@
 * call Swift from Objective-C, C  
 * call Objective-C, C from Swift  
   
-+ Swift 1.2, Xcode 6.3 / Mac OSX 10.10.3  
+* * *  
+Swift 1.2, Xcode 6.3 / Mac OSX 10.10.3  
 
 #### Blog  
 _Swift : without C ?_  
